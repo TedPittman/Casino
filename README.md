@@ -1,4 +1,4 @@
-## C++ Class Inheritance Casino
+# C++ Class Inheritance Casino
 ## Ted Pittman
 ## Project Summary
 This project is a digital Casino where a user can choose to play from a list of casino games. Some games require further user input to play, others are a single run. This Casino contains Blackjack, Roulette, and Slot Machines.
